@@ -1,7 +1,7 @@
 
 # Wavelet Noise
 
-A simple vectorised Python implementation of the famous Wavelet Noise algorithm. Supports 2D (image) and 3D (single volume or image animation) noise fields with multiscale noise. Requires only NumPy and SciPy for computation.
+A simple vectorised Python implementation of the famous Wavelet Noise algorithm. Supports 2D (image) and 3D (single volume or image animation) noise fields with multiple summed octaves. Requires only NumPy and SciPy for computation.
 
 ## Parameters
 
